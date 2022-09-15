@@ -1,2 +1,2 @@
 # hello-world
-My firts repository to understand what GitHub is
+My first repository to understand what GitHub is
